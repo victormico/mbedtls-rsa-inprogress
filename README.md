@@ -13,7 +13,7 @@ This repo contains a complete power analysis attack on MBED-TLS. This repository
         month = {June}
     }
     ```
-
+The master's thesis and sildes can be found in the `docs` folder.
 
 This repo now contains three looks at MBED-TLS power analysis:
 
